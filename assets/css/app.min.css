@@ -1,3 +1,4 @@
-body{background:#333}
-.characters-container{padding:30px}.character-image{border-radius:50px}
-.character-description{overflow-y:scroll;overflow-x:hidden;height:200px}.character-panel{height:310px}.character-panel2{height:510px}.panel-heading{color:#0f0f0f;text-shadow:-1px -1px 3px #020202,2px 2px 4px #1b1b1b}.jumbotron{margin:5px}
+body{background:#333;padding:0}
+.character-comics-description{overflow-y:scroll;overflow-x:hidden;border-radius:5px;height:200px;padding:5px}.character-comics-image{width:auto;height:auto;border-radius:5px 5px 0 0}.card{box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);transition:.3s;width:250px;min-height:490px;height:auto;border-top-left-radius:10px;border-top-right-radius:10px;color:#333}.card:hover{box-shadow:0 8px 16px 0 rgba(0,0,0,0.8);display:flex}.align-char{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;float:center}.my-navbar{position:fixed;top:0;left:0;width:100%;height:80px;max-height:80px;color:#333;background-color:#9b2f25;display:flex;align-items:center;justify-content:center;padding:20px}.my-header{font-family:Copperplate;font-size:30px}.seeDetails{color:#333}.seeDetails:hover{color:#9b2f25}
+.characters-container{padding:30px}.myForm{width:400px}
+.character-description{overflow-y:scroll;overflow-x:hidden;height:200px}.character-name-title{color:#0f0f0f;text-shadow:-1px -1px 3px #020202,2px 2px 4px #1b1b1b;font-family:candara;font-size:16px}.btn{width:auto;display:flex;margin-left:auto;margin-right:auto}
